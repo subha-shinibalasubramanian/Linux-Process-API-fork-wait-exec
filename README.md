@@ -1,8 +1,6 @@
-# Linux-Process-API-fork-wait-exec-
-Ex02-Linux Process API-fork(), wait(), exec()
-# Ex02-OS-Linux-Process API - fork(), wait(), exec()
-Operating systems Lab exercise
-
+**EX:2**  
+# Linux Process API-fork(), wait(), exec()
+**DATE:** 
 
 # AIM:
 To write C Program that uses Linux Process API - fork(), wait(), exec()
@@ -22,7 +20,8 @@ Write the C Program using Linux Process API - fork(), wait(), exec()
 Test the C Program for the desired output. 
 
 # PROGRAM:
-
+**NAME : SUBHASHINI.B** 
+**REGISTER NUMBER: 212223040211**  
 ## C Program to print process ID and parent Process ID using Linux API system calls
 ```
 #include <stdio.h>
